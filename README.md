@@ -30,3 +30,17 @@ A simple Python project to calculate student total marks, percentage, and grade.
 - 60–69 → C
 - 50–59 → D
 - Below 50 → F
+
+  ## Sample Output
+
+Student Grade Calculator
+
+Student Name: Jill
+Subject 1: 85
+Subject 2: 90
+Subject 3: 80
+
+--- Result ---
+Total: 255
+Percentage: 85.0%
+Grade: A
